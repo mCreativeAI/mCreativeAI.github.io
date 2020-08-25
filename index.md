@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Measuring Computational Creativity: Collaboratively Designing Metrics for Evaluating Creative Machines
+----
+## Workshop for ISEA 2020
+## Sunday, October 18, 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
-You can use the [editor on GitHub](https://github.com/mCreativeAI/mCreativeAI.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Metrics](#metrics) | [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Organizers](#organizers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How do we make a creative machine? Creativity involves “a multitude of definitions, conceptualizations, domains, disciplines that bear on its study, empirical methods, and levels of analysis, as well as research orientations that are both basic and applied - and applied in varied contexts.” This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. To begin, participants were asked to provide a definition of creativity specific to machines. Then more questions emerged: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants developed sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, participants found that the exercise helped them to better describe and interpret dimensions of algorithmic creativity. This half-day workshop extends these methods and engages a broader arts and machine learning community to collaboratively define quantitative metrics assessing the creativity of algorithms and machines. This workshop is a first attempt to establish evaluation metrics for the area of creative AI.
 
-### Markdown
+# Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tentative schedule 
+|(online videos: invited speaker talks, participants will watch it beforehand)|
+|main room - Introduction (20 min) 3 -3:20 PM|
+|main room - participant presentation 1min. - recorded video (0 min)|
+breakout rooms - small group discussions (30 min) 3:20 - 3:50 PM
+main room - next template explanation q&a (15 min) 3:50 - 4:05 PM
 
-```markdown
-Syntax highlighted code block
+Break (10 min) 4:05 - 4:15 PM 
 
-# Header 1
-## Header 2
-### Header 3
+main room - guest speaker panel (25min) 4:15 - 4:40 PM ET
+breakout rooms - small group discussions (30 min) 4:40 - 5:10 PM
+main room - next template explanation q&a (15 min) 5:10 - 5:25 PM
 
-- Bulleted
-- List
+main room - guest speaker panel (25 min) 5:25 - 5:50 PM  
+breakout rooms - small group discussions (30 min) 5:50 - 6:20 PM
 
-1. Numbered
-2. List
+10 min Break 6:20 - 6:30 PM
 
-**Bold** and _Italic_ and `Code` text
+main room - in-all discussions q&a 
+main room - our presentation of the results 
+ 6:30 - 7:00 PM 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Speakers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mCreativeAI/mCreativeAI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Participants
+
+Please contact us if you'd like to participate! [Address to come]
+
+# Organizers
+
+__Jean Oh__ - 
+
+__Eunsu Kang__ - 
+
+__Robert Twomey__ - 
+
