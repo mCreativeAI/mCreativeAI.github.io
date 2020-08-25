@@ -1,4 +1,5 @@
-# Measuring Computational Creativity: Collaboratively Designing Metrics for Evaluating Creative Machines
+# Measuring Computational Creativity: 
+# Collaboratively Designing Metrics to Evalute Creative Machines
 
 [Metrics](#metrics) | [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Organizers](#organizers)
 
