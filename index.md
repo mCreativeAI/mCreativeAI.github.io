@@ -4,7 +4,7 @@
 
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
-![Image](kyungja.png)
+![Image](kyungja_400.png)
 
 [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
