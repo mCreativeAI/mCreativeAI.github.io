@@ -1,6 +1,6 @@
-![Image](kyungja.png)
-
 # Collaboratively Designing Metrics to Evalute Creative Machines
+
+![Image](kyungja.png)
 
 ## Sunday, October 18
 
