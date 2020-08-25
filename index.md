@@ -1,8 +1,8 @@
 # Collaboratively Designing Metrics to Evalute Creative Machines
 
-## Sunday, October 18
+### Sunday, October 18
 
-## 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
+### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
 ![Image](kyungja.png)
 
