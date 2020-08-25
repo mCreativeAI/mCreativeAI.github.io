@@ -44,6 +44,8 @@ TK
 
 Please contact us if you'd like to participate! [mcreativeai@gmail.com](mcreativeai@gmail.com)
 
+This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
+
 # Metrics
 
 We will publish our results after the workshop.
