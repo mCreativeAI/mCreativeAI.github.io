@@ -1,7 +1,6 @@
 # Measuring Computational Creativity: Collaboratively Designing Metrics for Evaluating Creative Machines
-----
-## Workshop for ISEA 2020
-## Sunday, October 18, 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
+
+## Workshop for ISEA 2020 Sunday, October 18, 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
 [Metrics](#metrics) | [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Organizers](#organizers)
 
