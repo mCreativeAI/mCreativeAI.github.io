@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
-#theme: jekyll-theme-prime
+title: Measuring Computational Creativity: Collaboratively Designing Metrics for Evaluating Creative Machines
+description: Workshop for ISEA 2020, Montreal
+show_downloads: true
+google_analytics:
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
