@@ -16,20 +16,19 @@ How do we make a creative machine? Creativity involves “a multitude of definit
 
 tentative schedule 
 (online videos: invited speaker talks, participants will watch it beforehand)
-| Time | Event | Description | 
+| Time | Activity | Location | 
 | ---- | ---- | ---- |
-| 3 -3:20 PM | main room - Introduction (20 min) | main room - participant presentation 1min. - recorded video (0 min) | 
-| 3:20 - 3:50 PM | breakout rooms - small group discussions (30 min) | |
-| 3:50 - 4:05 PM | main room - next template explanation q&a (15 min) | |
+| 3 -3:20 PM | Introduction (20 min) - participant presentation 1min. - recorded video | main room | 
+| 3:20 - 3:50 PM | small group discussions (30 min) | breakout rooms |
+| 3:50 - 4:05 PM | next template explanation q&a (15 min) | main room |
 | 4:05 - 4:15 PM | Break (10 min) | |
-| 4:15 - 4:40 PM | main room - guest speaker panel (25min) | |
-| 4:40 - 5:10 PM | breakout rooms - small group discussions (30 min) | |
-| 5:10 - 5:25 PM | main room - next template explanation q&a (15 min) | |
-| 5:25 - 5:50 PM | main room - guest speaker panel (25 min) | |
-| 5:50 - 6:20 PM | breakout rooms - small group discussions (30 min) | |
-| 6:20 - 6:30 PM | 10 min Break | |
-| 6:30 - 7:00 PM | main room - in-all discussions q&a | |
-| main room - our presentation of the results | | |
+| 4:15 - 4:40 PM | guest speaker panel (25min) | main room |
+| 4:40 - 5:10 PM | small group discussions (30 min) | breakout rooms |
+| 5:10 - 5:25 PM | next template explanation q&a (15 min) | main room |
+| 5:25 - 5:50 PM | guest speaker panel (25 min) | main room |
+| 5:50 - 6:20 PM | small group discussions (30 min) | breakout rooms |
+| 6:20 - 6:30 PM | 10 min Break | ||
+| 6:30 - 7:00 PM | Presentation of Results and Q&A | main room |
 
 
 # Speakers
