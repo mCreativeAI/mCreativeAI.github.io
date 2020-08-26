@@ -1,12 +1,12 @@
+<p align="center">
+<img width="400" height="400" src="https://mcreativeai.github.io/kyungja_400.jpg">
+</p>
+
 # Collaboratively Designing Metrics to Evalute Creative Machines
 
 ### Sunday, October 18
 
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
-
-<p align="center">
-<img width="400" height="400" src="https://mcreativeai.github.io/kyungja_400.jpg">
-</p>
 
 [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
