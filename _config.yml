@@ -1,7 +1,8 @@
+github:
+  is_project_page: false
+
 title: Measuring Computational Creativity
 description: A Workshop for ISEA 2020, Montreal
 theme: jekyll-theme-midnight
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-primer
-github:
-  is_project_page: false
