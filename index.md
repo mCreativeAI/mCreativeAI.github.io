@@ -5,7 +5,7 @@
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
 <p align="center">
-![Image](kyungja_400.jpg)
+<img width="400" height="400" src="https://mcreativeai.github.io/kyungja_400.jpg">
 </p>
 
 [Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
