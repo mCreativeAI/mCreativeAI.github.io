@@ -15,7 +15,7 @@ How do we make a creative machine? Creativity involves “a multitude of definit
 # Schedule
 
 tentative schedule 
-| (online videos: invited speaker talks, participants will watch it beforehand) ||
+| (online videos: invited speaker talks, participants will watch it beforehand) |||
 | 3 -3:20 PM | main room - Introduction (20 min) | main room - participant presentation 1min. - recorded video (0 min) | 
 | 3:20 - 3:50 PM | breakout rooms - small group discussions (30 min) ||
 | 3:50 - 4:05 PM | main room - next template explanation q&a (15 min) ||
