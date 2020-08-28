@@ -1,5 +1,6 @@
 <p align="center">
 <img width="400" height="400" src="https://mcreativeai.github.io/kyungja_400.jpg">
+<em>Kyungja, by Eunsu Kang</em>
 </p>
 
 # Collaboratively Designing Metrics to Evalute Creative Machines
