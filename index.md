@@ -36,7 +36,10 @@ tentative schedule
 
 # Speakers
 
-TK
+__Haru Ji__ and __Graham Wakefield__
+
+__Ahmed Elgammal__ (Rutgers University, CAN)
+
 
 # Participants
 
