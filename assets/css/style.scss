@@ -2,6 +2,8 @@
 ---
 @import "{{ site.theme }}";
 #header {display: none;}
+.credits.left {display: none;}
+.credits.right {display: none;}
 #footer_wrap {display: none;}
 #forkme_banner {display: none;}
 #downloads {display: none;}
