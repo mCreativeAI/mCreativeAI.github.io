@@ -10,7 +10,7 @@
 
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
-[Schedule](#schedule) | [Speakers](#speakers) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
+[Schedule](#schedule) | [Panelists](#panelists) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
 How do we make a creative machine? Creativity involves “a multitude of definitions, conceptualizations, domains, disciplines that bear on its study, empirical methods, and levels of analysis, as well as research orientations that are both basic and applied - and applied in varied contexts.” This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. To begin, participants were asked to provide a definition of creativity specific to machines. Then more questions emerged: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants developed sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, participants found that the exercise helped them to better describe and interpret dimensions of algorithmic creativity. This half-day workshop extends these methods and engages a broader arts and machine learning community to collaboratively define quantitative metrics assessing the creativity of algorithms and machines. This workshop is a first attempt to establish evaluation metrics for the area of creative AI.
 
@@ -33,8 +33,7 @@ tentative schedule
 | 6:20 - 6:30 | 10 min Break | ||
 | 6:30 - 7:00 | Presentation of Results and Q&A | main room |
 
-
-# Speakers
+# Panelists
 
 __Haru Ji__ and __Graham Wakefield__ ([https://artificialnature.net](https://artificialnature.net/))
 
