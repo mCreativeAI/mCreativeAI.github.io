@@ -40,7 +40,7 @@ __Haru Ji__ and __Graham Wakefield__ ([https://artificialnature.net](https://art
 
 __Ahmed Elgammal__ ([https://www.cs.rutgers.edu/~elgammal/Home.html](Rutgers University), CAN)
 
-__Devi Parikh__ (FB Creative AI [https://www.cc.gatech.edu/~parikh/](https://www.cc.gatech.edu/~parikh/))
+__Devi Parikh__ ([FB Creative AI](https://www.cc.gatech.edu/~parikh/))
 
 # Participants
 
