@@ -38,7 +38,7 @@ tentative schedule
 
 __Haru Ji__ and __Graham Wakefield__ ([https://artificialnature.net](https://artificialnature.net/))
 
-__Ahmed Elgammal__ (Rutgers University, CAN)
+__Ahmed Elgammal__ ([https://www.cs.rutgers.edu/~elgammal/Home.html](Rutgers University), CAN)
 
 __Devi Parikh__ (FB Creative AI [https://www.cc.gatech.edu/~parikh/](https://www.cc.gatech.edu/~parikh/))
 
