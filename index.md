@@ -45,7 +45,7 @@ __Jun-Yan Zhu__ ([CMU RI](https://www.cs.cmu.edu/~junyanz/))
 
 __Fabrizio Poltronieri__ ([fabriziopoltronieri.com](https://www.fabriziopoltronieri.com/about]))
 
-__Allison Parrish__ ([decontextualize.com/](https://www.decontextualize.com/))
+__Allison Parrish__ ([decontextualize.com](https://www.decontextualize.com/))
 
 # Participants
 
