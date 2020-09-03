@@ -43,9 +43,9 @@ __Devi Parikh__ ([FB Creative AI](https://www.cc.gatech.edu/~parikh/))
 
 __Jun-Yan Zhu__ ([CMU RI](https://www.cs.cmu.edu/~junyanz/))
 
-__Fabrizio Poltronieri__ (https://www.fabriziopoltronieri.com/about)
+__Fabrizio Poltronieri__ ([fabriziopoltronieri.com](https://www.fabriziopoltronieri.com/about]))
 
-__Allison Parrish__ (https://www.decontextualize.com/)
+__Allison Parrish__ ([decontextualize.com/](https://www.decontextualize.com/))
 
 # Participants
 
