@@ -41,6 +41,12 @@ __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Ho
 
 __Devi Parikh__ ([FB Creative AI](https://www.cc.gatech.edu/~parikh/))
 
+__Jun-Yan Zhu__ ([CMU RI](https://www.cs.cmu.edu/~junyanz/))
+
+__Fabrizio Poltronieri__ (https://www.fabriziopoltronieri.com/about)
+
+__Allison Parrish__ (https://www.decontextualize.com/)
+
 # Participants
 
 Please contact us if you'd like to participate! [mcreativeai@gmail.com](mcreativeai@gmail.com)
