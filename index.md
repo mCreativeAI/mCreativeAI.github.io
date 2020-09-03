@@ -10,30 +10,13 @@
 
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
-[Schedule](#schedule) | [Panelists](#panelists) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
+[Speakers](#speakers) | [Call for Participation](#call_for_participation) | [Schedule](#schedule) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
-How do we make a creative machine? Creativity involves “a multitude of definitions, conceptualizations, domains, disciplines that bear on its study, empirical methods, and levels of analysis, as well as research orientations that are both basic and applied - and applied in varied contexts.” This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. To begin, participants were asked to provide a definition of creativity specific to machines. Then more questions emerged: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants developed sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, participants found that the exercise helped them to better describe and interpret dimensions of algorithmic creativity. This half-day workshop extends these methods and engages a broader arts and machine learning community to collaboratively define quantitative metrics assessing the creativity of algorithms and machines. This workshop is a first attempt to establish evaluation metrics for the area of creative AI.
+How do we make a creative machine? Creativity involves “a multitude of definitions, conceptualizations, domains, disciplines that bear on its study, empirical methods, and levels of analysis, as well as research orientations that are both basic and applied - and applied in varied contexts.” This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. To begin, participants were asked to provide a definition of creativity specific to machines. Then more questions emerged: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants developed sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, participants found that the exercise helped them to better describe and interpret dimensions of algorithmic creativity. This half-day workshop extends these methods and engages a broader arts and machine learning community to collaboratively define quantitative metrics assessing the creativity of algorithms and machines. This workshop is a first attempt to collectively establish evaluation metrics for the area of creative AI. 
 
-# Schedule
+ISEA 2020 is a virtual event and this workshop will be conducted online. We have an amazing lineup of panelists, see below.
 
-tentative schedule 
-(online videos: invited speaker talks, participants will watch it beforehand)
-
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
-| ---- | ---- | ---- |
-| 3:00 - 3:20 | Introduction (20 min) - participant presentation 1min. - recorded video | main room | 
-| 3:20 - 3:50 | small group discussions (30 min) | breakout rooms |
-| 3:50 - 4:05 | next template explanation q&a (15 min) | main room |
-| 4:05 - 4:15 | Break (10 min) | |
-| 4:15 - 4:40 | guest speaker panel (25min) | main room |
-| 4:40 - 5:10 | small group discussions (30 min) | breakout rooms |
-| 5:10 - 5:25 | next template explanation q&a (15 min) | main room |
-| 5:25 - 5:50 | guest speaker panel (25 min) | main room |
-| 5:50 - 6:20 | small group discussions (30 min) | breakout rooms |
-| 6:20 - 6:30 | 10 min Break | ||
-| 6:30 - 7:00 | Presentation of Results and Q&A | main room |
-
-# Panelists
+# Speakers
 
 __Haru Ji__ and __Graham Wakefield__ ([https://artificialnature.net](https://artificialnature.net/))
 
@@ -46,6 +29,35 @@ __Jun-Yan Zhu__ ([CMU RI](https://www.cs.cmu.edu/~junyanz/))
 __Fabrizio Poltronieri__ ([fabriziopoltronieri.com](https://www.fabriziopoltronieri.com/about]))
 
 __Allison Parrish__ ([decontextualize.com](https://www.decontextualize.com/))
+
+# Call for Participation
+
+Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future mCreativeAI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
+
+How to participate: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
+
+Form: https://forms.gle/ZshgTgHti4Q7aJVz8
+
+We will send out an acceptance notification by Friday, October 2nd.
+
+# Schedule
+
+tentative schedule 
+(online videos: invited speaker talks, participants will watch it beforehand)
+
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
+| ---- | ---- | ---- |
+| 3:00 - 3:20 | Introduction (20 min) - participant presentation 1min. - recorded video | main room | 
+| 3:20 - 3:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
+| 3:50 - 4:05 | next template explanation q&a (15 min) | main room |
+| 4:05 - 4:15 | Break (10 min) | |
+| 4:15 - 4:40 | guest speaker panel (25min) | main room |
+| 4:40 - 5:10 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
+| 5:10 - 5:25 | next template explanation q&a (15 min) | main room |
+| 5:25 - 5:50 | guest speaker panel (25 min) | main room |
+| 5:50 - 6:20 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
+| 6:20 - 6:30 | 10 min Break | |
+| 6:30 - 7:00 | Presentation of Results and Q&A | main room |
 
 # Participants
 
