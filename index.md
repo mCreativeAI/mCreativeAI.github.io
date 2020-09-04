@@ -16,6 +16,8 @@ How do we make a creative machine? This workshop follows a series of studies con
 
 ISEA 2020 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
+NOTE: This page will be updated frequently as we confirm workshop participants. 
+
 # Speakers
 
 __Haru Ji__ (OCAD University, [https://artificialnature.net/](https://artificialnature.net/))
@@ -73,9 +75,9 @@ We will publish our results after the workshop.
 
 # Organizers
 
-__Eunsu Kang__ is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. Her works have been presented at conferences including ACM, ICMC, ISEA, SIGGRAPH Asia and NeurIPS. Kang earned her Ph.D. from DXARTS of the University of Washington, an MA from MAT, UCSB, and an MFA from Ewha Womans University. She was a tenured Associate Professor of New Media Art at the University of Akron and currently is a Visiting Professor of Art and Machine Learning at Carnegie Mellon University’s School of Computer Science. 
+__Eunsu Kang__ is an artist, a researcher, and an educator who explores the intersection of art and machine learning, one of the core methods for building AI. Her works have been presented at conferences including ACM, ICMC, ISEA, SIGGRAPH Asia and NeurIPS. Kang earned her Ph.D. from DXARTS of the University of Washington, an MA from MAT, UCSB, and an MFA from Ewha Womans University. She was a tenured Associate Professor of New Media Art at the University of Akron and currently is a Visiting Professor of Art and Machine Learning at Carnegie Mellon University’s School of Computer Science. [kangeunsu.com](kangeunsu.com)
 
-__Jean Oh__ is a faculty member at the Robotics Institute at Carnegie Mellon University. Her research addresses the creativity in decision making in the problem domains including self-driving cars, disaster response, healthcare, and arts. Her team’s work won the Best Paper Award at the 2018 IEEE International Conference on Robotics and Automation, and also the Best Cognitive Robotics Paper Award at the IEEE International Conference on Robotics and Automation in 2015.  Jean received her Ph.D. in Language and Information Technologies at Carnegie Mellon University, M.S. in Computer Science at Columbia University, and B.S. in Biotechnology at Yonsei University.
+__Jean Oh__ is a faculty member at the [Robotics Institute at Carnegie Mellon University]([www.cs.cmu.edu/~jeanoh/]). Her research addresses the creativity in decision making in the problem domains including self-driving cars, disaster response, healthcare, and arts. Her team’s work won the Best Paper Award at the 2018 IEEE International Conference on Robotics and Automation, and also the Best Cognitive Robotics Paper Award at the IEEE International Conference on Robotics and Automation in 2015.  Jean received her Ph.D. in Language and Information Technologies at Carnegie Mellon University, M.S. in Computer Science at Columbia University, and B.S. in Biotechnology at Yonsei University.
 
 __Robert Twomey__ is an artist and engineer exploring the poetic intersection of human and machine perception. He has presented his work at SIGGRAPH, the Museum of Contemporary Art San Diego, and his research has been supported by Microsoft, Amazon, and NVIDIA. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA from UC San Diego, and his PhD in DXARTS from the University of Washington. Recently a postdoc with the [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) at UC San Diego, he is now an Assistant Professor with the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) at the University of Nebraska-Lincoln.
 
