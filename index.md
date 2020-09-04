@@ -36,7 +36,7 @@ __Allison Parrish__ (New York University, [decontextualize.com](https://www.deco
 
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future mCreativeAI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
 
-How to participate: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
+__How to participate__: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
 
 Form: https://forms.gle/ZshgTgHti4Q7aJVz8
 
