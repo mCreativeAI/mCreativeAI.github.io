@@ -4,7 +4,7 @@
 <em>Kyungja, by Eunsu Kang</em>
 </p>
 
-# Collaboratively Designing Metrics to Evalute Creative Machines
+# Collaboratively Designing Metrics to Evaluate Creative Machines
 
 ### Sunday, October 18
 
