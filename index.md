@@ -65,7 +65,7 @@ tentative schedule
 
 # Participants
 
-Please contact us if you'd like to participate! [mcreativeai@gmail.com](mcreativeai@gmail.com)
+Participants will be updated as they are confirmed. 
 
 This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
 
