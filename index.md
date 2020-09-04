@@ -38,7 +38,7 @@ Participants in this workshop, as a group, will examine a number of Artificial I
 
 __How to participate__: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
 
-Form: https://forms.gle/ZshgTgHti4Q7aJVz8
+Form: [https://forms.gle/ZshgTgHti4Q7aJVz8](https://forms.gle/ZshgTgHti4Q7aJVz8)
 
 We will send out an acceptance notification by Friday, October 2nd.
 
