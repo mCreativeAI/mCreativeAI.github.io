@@ -30,7 +30,7 @@ __Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI 
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
-__Fabrizio Poltronieri__ ([fabriziopoltronieri.com](https://www.fabriziopoltronieri.com/about]))
+__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
