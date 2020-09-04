@@ -12,9 +12,9 @@
 
 [Speakers](#speakers) | [Call for Participation](#call-for-participation) | [Schedule](#schedule) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
-How do we make a creative machine? Creativity involves “a multitude of definitions, conceptualizations, domains, disciplines that bear on its study, empirical methods, and levels of analysis, as well as research orientations that are both basic and applied - and applied in varied contexts.” This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. To begin, participants were asked to provide a definition of creativity specific to machines. Then more questions emerged: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants developed sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, participants found that the exercise helped them to better describe and interpret dimensions of algorithmic creativity. This half-day workshop extends these methods and engages a broader arts and machine learning community to collaboratively define quantitative metrics assessing the creativity of algorithms and machines. This workshop is a first attempt to collectively establish evaluation metrics for the area of creative AI. 
+How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
 
-ISEA 2020 is a virtual event and this workshop will be conducted online. We have an amazing lineup of panelists, see below.
+ISEA 2020 is a virtual event and this workshop will be conducted online. Our invited speakers will provide prerecorded video talks and participate in live panel discussions.
 
 # Speakers
 
@@ -51,12 +51,12 @@ tentative schedule
 | ---- | ---- | ---- |
 | 3:00 - 3:20 | Introduction (20 min) - participant presentation 1min. - recorded video | main room | 
 | 3:20 - 3:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
-| 3:50 - 4:05 | next template explanation q&a (15 min) | main room |
+| 3:50 - 4:05 | Q & A (15 min) | main room |
 | 4:05 - 4:15 | Break (10 min) | |
-| 4:15 - 4:40 | guest speaker panel (25min) | main room |
+| 4:15 - 4:40 | Guest Speaker Panel (25min) | main room |
 | 4:40 - 5:10 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
-| 5:10 - 5:25 | next template explanation q&a (15 min) | main room |
-| 5:25 - 5:50 | guest speaker panel (25 min) | main room |
+| 5:10 - 5:25 | Q & A (15 min) | main room |
+| 5:25 - 5:50 | Guest Speaker Panel (25 min) | main room |
 | 5:50 - 6:20 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
 | 6:20 - 6:30 | 10 min Break | |
 | 6:30 - 7:00 | Presentation of Results and Q&A | main room |
