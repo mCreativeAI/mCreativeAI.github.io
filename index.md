@@ -20,9 +20,9 @@ NOTE: This page will be updated frequently as we confirm workshop participants.
 
 # Speakers
 
-__Haru Ji__ (OCAD University, [https://artificialnature.net/](https://artificialnature.net/))
+__Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.net/))
 
-__Graham Wakefield__ (York University, [https://artificialnature.net](https://artificialnature.net/))
+__Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
 
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
