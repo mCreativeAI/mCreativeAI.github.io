@@ -34,6 +34,9 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
+__Aaron Hertzman__ (Adobe Research, [University of Toronto](http://www.dgp.toronto.edu/~hertzman/))
+
+
 # Call for Participation
 
 Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future mCreativeAI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
