@@ -34,7 +34,7 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
-__Aaron Hertzman__ (Adobe Research, [University of Toronto](http://www.dgp.toronto.edu/~hertzman/))
+__Aaron Hertzmann__ (Adobe Research)
 
 
 # Call for Participation
