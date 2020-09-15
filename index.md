@@ -10,6 +10,8 @@
 
 ### 15:00pm - 19:00pm (Montreal Time, GMT-4, EST)
 
+### [ISEA2020 - Why Sentience](https://isea2020.isea-international.org/)
+
 [Speakers](#speakers) | [Call for Participation](#call-for-participation) | [Schedule](#schedule) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
 
 How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
