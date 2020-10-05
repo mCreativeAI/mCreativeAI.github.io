@@ -26,17 +26,19 @@ __Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.n
 
 __Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
 
+__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
+
+__Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
+
+__Aaron Hertzmann__ (Adobe Research)
+
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
 __Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI Research)
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
-__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
-
-__Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
-
-__Aaron Hertzmann__ (Adobe Research)
+__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/))
 
 
 # Call for Participation
