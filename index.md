@@ -105,7 +105,7 @@ __Patricia Alves-Oliveira__ [https://www.youtube.com/watch?v=e-K3J5UZ9M4&feature
 
 __Violaine Lafortune__ [Organisme No. 17 ](https://violainelafortune.com/organisme-17)
 
-__Donald Craig__
+__Donald Craig__ [Rhomboid](http://realizedsound.net/rhomboid/)
 
 __Andrew Brown__
 
