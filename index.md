@@ -98,7 +98,7 @@ __Jie-Eun Hwang__ [https://openarchive.uosarch.ac.kr/](https://openarchive.uosar
 
 __Jane Tingley__ [Foresta Inclusiva](http://janetingley.com/foresta-inclusive/)
 
-__joelong__ [Terra et Venti](http://www.arkfrequencies.com/terra-et-venti-2018/)
+__Joel Ong__ [Terra et Venti](http://www.arkfrequencies.com/terra-et-venti-2018/)
 
 __Alex MacLean__ [Switch Jockey](https://www.alexmaclean.ca/switch-jockey/)
 
