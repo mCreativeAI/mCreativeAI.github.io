@@ -134,8 +134,6 @@ __Holland Hopson__
 
 __Ilze Briede__
 
-__Jie_Eun Hwang__
-
 
 Participants will be updated as they are confirmed.
 
