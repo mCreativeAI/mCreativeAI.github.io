@@ -12,7 +12,7 @@
 
 ### [ISEA2020 - Why Sentience](https://isea2020.isea-international.org/)
 
-[Speakers](#speakers) | [Call for Participation](#call-for-participation) | [Schedule](#schedule) | [Participants](#participants) | [Metrics](#metrics) | [Organizers](#organizers)
+[Speakers](#speakers) | [Schedule](#schedule) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
 
 How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
 
@@ -39,17 +39,6 @@ __Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
 __Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/)) - [Video Talk](https://drive.google.com/file/d/1kte0t4DpFrBjp5k8SrhfwyMe9U6NCkN0/view?usp=sharing)
-
-
-# Call for Participation
-
-Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future mCreativeAI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
-
-__How to participate__: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
-
-Form: [https://forms.gle/ZshgTgHti4Q7aJVz8](https://forms.gle/ZshgTgHti4Q7aJVz8)
-
-We will send out an acceptance notification by Friday, October 2nd.
 
 # Schedule
 
@@ -137,6 +126,16 @@ __Ilze Briede__
 
 Participants will be updated as they are confirmed.
 
+# Call for Participation
+
+Participants in this workshop, as a group, will examine a number of Artificial Intelligence (AI) Art projects, and articulate metrics to evaluate dimensions of creativity in those works. Workshop participants are key contributors to this research in Measuring Creative AI, and we plan for every participant to be named on future mCreativeAI publications (website, papers, etc.) as contributors. This is a novel research project with no prior examples as far as we know, and this workshop will be the inaugural event for this effort as this exercise has only been conducted with students previously.
+
+__How to participate__: If you are interested to participate, please fill out the following google form by Friday, September 25th, midnight Eastern. 
+
+Form: [https://forms.gle/ZshgTgHti4Q7aJVz8](https://forms.gle/ZshgTgHti4Q7aJVz8)
+
+We will send out an acceptance notification by Friday, October 2nd.
+
 # Metrics
 
 We will publish our results after the workshop.
@@ -148,6 +147,7 @@ __Eunsu Kang__ is an artist, a researcher, and an educator who explores the inte
 __Jean Oh__ is a faculty member at the [Robotics Institute at Carnegie Mellon University]([www.cs.cmu.edu/~jeanoh/]). Her research addresses the creativity in decision making in the problem domains including self-driving cars, disaster response, healthcare, and arts. Her team’s work won the Best Paper Award at the 2018 IEEE International Conference on Robotics and Automation, and also the Best Cognitive Robotics Paper Award at the IEEE International Conference on Robotics and Automation in 2015.  Jean received her Ph.D. in Language and Information Technologies at Carnegie Mellon University, M.S. in Computer Science at Columbia University, and B.S. in Biotechnology at Yonsei University.
 
 __Robert Twomey__ is an artist and engineer exploring the poetic intersection of human and machine perception. He has presented his work at SIGGRAPH, the Museum of Contemporary Art San Diego, and his research has been supported by the National Science Foundation, Microsoft, Amazon, and NVIDIA. Twomey received his BS from Yale with majors in Art and Biomedical Engineering, his MFA from UC San Diego, and his PhD in DXARTS from the University of Washington. Recently a postdoc with the [Arthur C. Clarke Center for Human Imagination](imagination.ucsd.edu) at UC San Diego, he is now an Assistant Professor with the [Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) at the University of Nebraska-Lincoln.
+
 
 # Support
 
