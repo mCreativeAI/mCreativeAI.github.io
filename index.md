@@ -116,6 +116,27 @@ __Patricia Alves-Oliveira__ [https://www.youtube.com/watch?v=e-K3J5UZ9M4&feature
 
 __Violaine Lafortune__ [Organisme No. 17 ](https://violainelafortune.com/organisme-17)
 
+__Donald Craig__
+
+__Andrew Brown__
+
+__Cecilia Vilca__
+
+__Michael Stesney__
+
+__Chipp Jansen__
+
+__Pablo Sotres__
+
+__Alexa Bonomo__
+
+__Holland Hopson__
+
+__Ilze Briede__
+
+__Jie_Eun Hwang__
+
+
 Participants will be updated as they are confirmed.
 
 # Metrics
