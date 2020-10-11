@@ -38,7 +38,7 @@ __Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI 
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
-__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/))
+__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/)) - [video talk](https://drive.google.com/file/d/1kte0t4DpFrBjp5k8SrhfwyMe9U6NCkN0/view?usp=sharing)
 
 
 # Call for Participation
