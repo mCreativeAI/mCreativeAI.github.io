@@ -54,9 +54,9 @@ tentative schedule
 | 4:15 - 4:40 | Guest Speaker Panel (25min) | main room |
 | 4:40 - 5:10 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
 | 5:10 - 5:25 | Q & A (15 min) | main room |
-| 5:25 - 5:50 | Guest Speaker Panel (25 min) | main room |
-| 5:50 - 6:20 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
-| 6:20 - 6:30 | 10 min Break | |
+| 5:25 - 5:35 | 10 min Break | |
+| 5:35 - 6:10 | Guest Speaker Panel (25 min) | main room |
+| 6:10 - 6:30 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
 | 6:30 - 7:00 | Presentation of Results and Q&A | main room |
 
 # Participants
