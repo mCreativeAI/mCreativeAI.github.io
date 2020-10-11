@@ -58,7 +58,7 @@ tentative schedule
 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Activity | Location | 
 | ---- | ---- | ---- |
-| 3:00 - 3:20 | Introduction (20 min) - participant presentation 1min. - recorded video | main room | 
+| 3:00 - 3:20 | Introduction (20 min) | main room | 
 | 3:20 - 3:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
 | 3:50 - 4:05 | Q & A (15 min) | main room |
 | 4:05 - 4:15 | Break (10 min) | |
