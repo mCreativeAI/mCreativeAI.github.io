@@ -26,19 +26,19 @@ __Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.n
 
 __Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
 
-__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
+__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com)) - [Video Talk](https://drive.google.com/file/d/13xI8YRfaRLj1H3F-P_HrmOie4GNObCwi/view?usp=sharing)
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
-__Aaron Hertzmann__ (Adobe Research)
+__Aaron Hertzmann__ (Adobe Research) - [Video Talk](https://drive.google.com/file/d/15kmrLXqSQsZorlXhw1t92W-ah9Qa2ZC3/view?usp=sharing)
 
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
-__Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI Research)
+__Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI Research) - [Video Talk](https://drive.google.com/file/d/1I9h_XLHPsNmdShcwpoGnzCIYRyBxzPWc/view?usp=sharing)
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
-__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/)) - [video talk](https://drive.google.com/file/d/1kte0t4DpFrBjp5k8SrhfwyMe9U6NCkN0/view?usp=sharing)
+__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/)) - [Video Talk](https://drive.google.com/file/d/1kte0t4DpFrBjp5k8SrhfwyMe9U6NCkN0/view?usp=sharing)
 
 
 # Call for Participation
