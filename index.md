@@ -72,9 +72,50 @@ tentative schedule
 
 # Participants
 
-Participants will be updated as they are confirmed. 
-
 This session is an actual working session: together we will collaboratively define metrics for Creative AI. 
+
+__Tuomas Sandholm__ [Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://science.sciencemag.org/content/359/6374/418)
+
+__Carlos Castellanos__ [PlanetConnect](https://ccastellanos.com/projects/plantconnect/)
+
+__Austin Lee__ [mongyudowondo.com/](http://www.mongyudowondo.com/)
+
+__Nick Fox-Gieg__ [https://www.instagram.com/p/BxffQ0RADZ0/](https://www.instagram.com/p/BxffQ0RADZ0/)
+
+__Koosilja__ [https://koosil-jadance.com/](https://koosil-jadance.com/)
+
+__Peter Schaldenbrand__ [https://pschaldenbrand.github.io/](https://pschaldenbrand.github.io/)
+
+__Kat Mustatea__ [What is the Value of Art in the Age of Intelligent Machines?](https://www.ted.com/talks/kat_mustatea_what_is_the_value_of_art_in_an_age_of_thinking_machines)
+
+__Dana Sperry__ [https://vimeo.com/460211868](https://vimeo.com/460211868)
+
+__Kim Baraka__ [https://www.youtube.com/watch?v=PNzeT8ZsyfM](https://www.youtube.com/watch?v=PNzeT8ZsyfM)
+
+__Rodrigo F. Cádiz__ [https://creativai-uc.github.io/](https://creativai-uc.github.io/)
+
+__Jie-Eun Hwang__ [https://openarchive.uosarch.ac.kr/](https://openarchive.uosarch.ac.kr/)
+
+__Jane Tingley__ [Foresta Inclusiva](http://janetingley.com/foresta-inclusive/)
+
+__joelong__ [Terra et Venti](http://www.arkfrequencies.com/terra-et-venti-2018/)
+
+__Alex MacLean__ [Switch Jockey](https://www.alexmaclean.ca/switch-jockey/)
+
+__Claire Jervert__ [https://m.youtube.com/watch?v=UKHgOupljmA](https://m.youtube.com/watch?v=UKHgOupljmA)
+
+__Aaron Oldenburg__ [Desert Mothers](https://aaronoldenburg.itch.io/desert-mothers)
+
+__Amalia Foka__ [The Invisible Structures of the Artworld](https://dl.acm.org/doi/abs/10.1145/3359852.3359940)
+
+__Weihua Zhao__ [404 Not Found](https://github.com/ucsd-dsc-arts/dsc160-final-404-not-found-1)
+
+__Vít Růžička__ [GAN Explorer](https://github.com/previtus/GAN_explorer)
+
+__Patricia Alves-Oliveira__ [https://www.youtube.com/watch?v=e-K3J5UZ9M4&feature=emb_logo](https://www.youtube.com/watch?v=e-K3J5UZ9M4&feature=emb_logo)
+
+__Violaine Lafortune__ [Organisme No. 17 ](https://violainelafortune.com/organisme-17)
+
 
 # Metrics
 
