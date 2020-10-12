@@ -28,6 +28,8 @@ __Graham Wakefield__ (York University, [artificialnature.net](https://artificial
 
 __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2RDDnFOVN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,7 +46,7 @@ __Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI 
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
-__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/)) - 
+__Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tYKDmhcUqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
