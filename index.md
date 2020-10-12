@@ -30,11 +30,17 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xQvbM5iRXp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Aaron Hertzmann__ (Adobe Research)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qX9lLDOLG88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
-__Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI Research) - 
+__Devi Parikh__ ([Georgia Tech](https://www.cc.gatech.edu/~parikh/)/Facebook AI Research)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/afdo3Z2qDsk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
 
