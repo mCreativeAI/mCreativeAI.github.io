@@ -42,9 +42,7 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2RDDnFOVN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-__Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.net/))
-
-__Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
+__Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.net/)) and __Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
 
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
@@ -120,10 +118,6 @@ __Donald Craig__ [https://www.youtube.com/watch?v=hWTwmDpVtdk](https://www.youtu
 __Andrew Brown__ [https://vimeo.com/142107969](https://vimeo.com/142107969)
 
 __Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview)
-
-__Cecilia Vilca__
-
-__Michael Stesney__
 
 __Pablo Sotres__
 
