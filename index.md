@@ -30,6 +30,8 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfmjn0bZc6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Aaron Hertzmann__ (Adobe Research) - [Video Talk](https://drive.google.com/file/d/15kmrLXqSQsZorlXhw1t92W-ah9Qa2ZC3/view?usp=sharing)
 
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
