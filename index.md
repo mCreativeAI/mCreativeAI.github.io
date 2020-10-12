@@ -117,13 +117,13 @@ __Violaine Lafortune__ [Organisme No. 17 ](https://violainelafortune.com/organis
 
 __Donald Craig__ [https://www.youtube.com/watch?v=hWTwmDpVtdk](https://www.youtube.com/watch?v=hWTwmDpVtdk)
 
-__Andrew Brown__
+__Andrew Brown__ [https://vimeo.com/142107969](https://vimeo.com/142107969)
+
+__Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview)
 
 __Cecilia Vilca__
 
 __Michael Stesney__
-
-__Chipp Jansen__
 
 __Pablo Sotres__
 
