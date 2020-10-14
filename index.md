@@ -119,6 +119,8 @@ __Andrew Brown__ [https://vimeo.com/142107969](https://vimeo.com/142107969)
 
 __Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview)
 
+__Johnny Diblasi__ 
+
 __Pablo Sotres__
 
 __Alexa Bonomo__
