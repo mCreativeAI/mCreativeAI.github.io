@@ -121,15 +121,6 @@ __Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](
 
 __Johnny Diblasi__ 
 
-__Pablo Sotres__
-
-__Alexa Bonomo__
-
-__Holland Hopson__
-
-__Ilze Briede__
-
-
 Participants will be updated as they are confirmed.
 
 # Call for Participation
