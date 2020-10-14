@@ -119,7 +119,7 @@ __Andrew Brown__ [https://vimeo.com/142107969](https://vimeo.com/142107969)
 
 __Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview)
 
-__Johnny Diblasi__ 
+__Johnny Diblasi__ [https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/](https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/)
 
 Participants will be updated as they are confirmed.
 
