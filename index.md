@@ -44,6 +44,8 @@ __Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiv
 
 __Haru Ji__ (OCAD University, [artificialnature.net/](https://artificialnature.net/)) and __Graham Wakefield__ (York University, [artificialnature.net](https://artificialnature.net/))
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jb2GwwuoW_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __Ahmed Elgammal__ ([Rutgers University](https://www.cs.rutgers.edu/~elgammal/Home.html))
 
 __Jun-Yan Zhu__ ([Carnegie Mellon University](https://www.cs.cmu.edu/~junyanz/))
