@@ -122,6 +122,8 @@ __Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](
 
 __Johnny Diblasi__ [https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/](https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/)
 
+__Kiel Howe__ [Baby's First Image Classification Training Data Set - An Opensource Children's Book](https://github.com/ksocks/BFICTDS)
+
 Participants will be updated as they are confirmed.
 
 # Call for Participation
