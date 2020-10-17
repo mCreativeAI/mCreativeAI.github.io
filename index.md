@@ -123,6 +123,8 @@ __Johnny Diblasi__ [https://www.design.iastate.edu/news/2020/04/johnny-diblasi-f
 
 __Kiel Howe__ [Baby's First Image Classification Training Data Set - An Opensource Children's Book](https://github.com/ksocks/BFICTDS)
 
+__Jon Paden__
+
 Participants will be updated as they are confirmed.
 
 # Call for Participation
