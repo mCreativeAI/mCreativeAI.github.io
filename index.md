@@ -97,8 +97,6 @@ __Rodrigo F. Cádiz__ [https://creativai-uc.github.io/](https://creativai-uc.git
 
 __Jie-Eun Hwang__ [https://openarchive.uosarch.ac.kr/](https://openarchive.uosarch.ac.kr/)
 
-__Jane Tingley__ [Foresta Inclusiva](http://janetingley.com/foresta-inclusive/)
-
 __Joel Ong__ [Terra et Venti](http://www.arkfrequencies.com/terra-et-venti-2018/)
 
 __Alex MacLean__ [Switch Jockey](https://www.alexmaclean.ca/switch-jockey/)
@@ -120,8 +118,6 @@ __Violaine Lafortune__ [Organisme No. 17 ](https://violainelafortune.com/organis
 __Donald Craig__ [https://www.youtube.com/watch?v=hWTwmDpVtdk](https://www.youtube.com/watch?v=hWTwmDpVtdk)
 
 __Andrew Brown__ [https://vimeo.com/142107969](https://vimeo.com/142107969)
-
-__Chipp Jansen__ [https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview](https://nms.kcl.ac.uk/chipp.jansen/research/drawing/overview)
 
 __Johnny Diblasi__ [https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/](https://www.design.iastate.edu/news/2020/04/johnny-diblasi-fulbright/)
 
