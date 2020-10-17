@@ -125,6 +125,8 @@ __Kiel Howe__ [Baby's First Image Classification Training Data Set - An Opensour
 
 __Jon Paden__
 
+__Pablo Sotres__
+
 Participants will be updated as they are confirmed.
 
 # Call for Participation
