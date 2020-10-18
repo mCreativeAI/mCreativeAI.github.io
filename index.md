@@ -158,7 +158,9 @@ Form: [https://forms.gle/ZshgTgHti4Q7aJVz8](https://forms.gle/ZshgTgHti4Q7aJVz8)
 
 We will send out an acceptance notification by Friday, October 2nd.
 
-# Results
+# Metrics
+
+Here is our metrics worksheet: [google docs](https://docs.google.com/spreadsheets/d/1Z7zWCeE4Mqyke4fsSzS-pvAn7_wPQ1x0JHr5kcS0UQk/edit?usp=sharing)
 
 We will publish our results after the workshop.
 
