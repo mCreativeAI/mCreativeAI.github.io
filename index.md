@@ -38,7 +38,7 @@ __Roger Dannenberg__ ([Carnegie Mellon University](http://www.cs.cmu.edu/~rbd/))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tYKDmhcUqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort UNiversity, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
+__Fabrizio Poltronieri__ (Institute of Creative Technologies at De Montfort University, [fabriziopoltronieri.com](https://www.fabriziopoltronieri.com))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2RDDnFOVN4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
