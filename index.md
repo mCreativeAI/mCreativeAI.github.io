@@ -64,10 +64,10 @@ tentative schedule
 | 3:00 - 3:20 | Introduction (20 min) | main room | 
 | 3:20 - 3:50 | Discussion 1 - Elements of Creative AI (30 min) | breakout rooms |
 | 3:50 - 4:05 | Q & A (15 min) | main room |
-| 4:05 - 4:40 | Guest Speaker Panel (35min) | main room |
+| 4:05 - 4:40 | Guest Speaker Panel 1 (35min) | main room |
 | 4:40 - 5:10 | Discussion 2 - Evaluating ML/Art Projects (30 min) | breakout rooms |
 | 5:10 - 5:25 | Q & A (15 min) | main room |
-| 5:25 - 6:10 | Guest Speaker Panel (35 min) | main room |
+| 5:25 - 6:10 | Guest Speaker Panel 2 (35 min) | main room |
 | 6:10 - 6:30 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
 | 6:30 - 7:00 | Presentation of Results and Q&A | main room |
 
