@@ -12,7 +12,7 @@
 
 ### [ISEA2020 - Why Sentience](https://isea2020.isea-international.org/)
 
-[Speakers](#speakers) | [Schedule](#schedule) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Metrics](#metrics) | [Organizers](#organizers)
+[Speakers](#speakers) | [Schedule](#schedule) | [Questions](#questions) | [Participants](#participants) | [Call for Participation](#call-for-participation) | [Results](#results) | [Organizers](#organizers)
 
 How do we make a creative machine? This workshop follows a series of studies conducted in the classroom setting at CMU and UC San Diego. For ISEA, participants will collectively find a definition of creativity specific to machines, addressing follow up questions: Can we computationally model ambiguity? Would a novelty search result in valuable discoveries? Where is the threshold between randomness and creativity? How do we evaluate the creativity of an algorithm? To answer these questions, participants develop sets of criteria to assess their own and peer groups’ creative AI and ML projects. Although such a human-centered method is subjective, we anticipate discovering ways to describe and interpret dimensions of algorithmic creativity. This half-day workshop engages a broader arts and machine learning community to collaboratively define these quantitative criteria, in a first attempt to collectively establish evaluation metrics for the area of creative AI.
 
@@ -70,6 +70,25 @@ tentative schedule
 | 5:25 - 6:10 | Guest Speaker Panel (35 min) | main room |
 | 6:10 - 6:30 | Discussion 3 - Revising Metrics, Evaluation 2 (30 min) | breakout rooms |
 | 6:30 - 7:00 | Presentation of Results and Q&A | main room |
+
+# Questions
+
+Panel 1: Graham Wakefield, Haru Ji, Fabrizio Poltronieri, Allison Parrish, Aaron Hertzmann
+- What are your methods and metrics for evaluating the creative AI system that you and your colleagues have developed?
+- How does the study of creative AI systems inform human creative practice?
+- How do we attribute (who is responsible for) the creativity in collaborative creative systems? 
+- Do you think there is a difference between creative AI and human creativity? What would be the difference? If not, why not.
+
+Panel 2: Ahmed Elgammal, Devi Parikh, Jun-Yan Zhu, Roger Dannenberg
+- What are your methods and metrics for evaluating the creative AI system that you and your colleagues have developed? 
+- Do human creative methods provide valuable models for computational creativity? How does human creativity influence computational creativity?
+- How do we attribute (who is responsible for) the creativity in collaborative creative systems? 
+- How would you define creativity in generative models? If these models are specifically trained to generate new content, does this mean that they are necessarily creative?
+
+Additional Questions
+- Are all generative systems "creative"? or… Is there a meaningful distinction between generativity and creativity?
+- How can we contribute to a better definition of "creativity" (which is still fuzzy) using measures that capture computational creativity?
+- Evaluating a creative work can be considered subjective. Can we (and should we) account for this subjectivity in our artificially intelligent evaluation methods, or should we strive to make objective measures?
 
 # Participants
 
@@ -139,7 +158,7 @@ Form: [https://forms.gle/ZshgTgHti4Q7aJVz8](https://forms.gle/ZshgTgHti4Q7aJVz8)
 
 We will send out an acceptance notification by Friday, October 2nd.
 
-# Metrics
+# Results
 
 We will publish our results after the workshop.
 
