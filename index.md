@@ -20,6 +20,10 @@ ISEA 2020 is a virtual event and this workshop will be conducted online. Our inv
 
 NOTE: This page will be updated frequently as we confirm workshop participants. 
 
+# Introduction
+
+[Measuring Computational Creativity](eunsukang_mCAI_Intro.pdf)
+
 # Speakers
 
 __Allison Parrish__ (New York University, [decontextualize.com](https://www.decontextualize.com/))
