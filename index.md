@@ -22,7 +22,7 @@ NOTE: This page will be updated frequently as we confirm workshop participants.
 
 # Introduction
 
-Introductory slides from __Eunsu Kang__: "Measuring Computational Creativity" ([pdf](eunsukang_mCAI_Intro.pdf))
+Introductory slides from Eunsu Kang: Measuring Computational Creativity ([pdf](eunsukang_mCAI_Intro.pdf))
 
 # Speakers
 
